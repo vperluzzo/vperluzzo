@@ -3,9 +3,17 @@
 <h1 align="center"> <img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/hello.gif" alt="hello-gif"> <br >I'm <a href="https://www.linkedin.com/in/valeriaperluzzo/">Valeria Perluzzo</a>. Welcome to my GitHub! 🤗</h1>
 
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
-</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vperluzzo" alt="vperluzzo"/> </p> 
+    </a>
+    <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
+    </a>
+    <a href="https://github.com/vperluzzo/vperluzzo/issues">
+    <img alt="Issues" src="https://img.shields.io/github/issues/vperluzzo/vperluzzo?color=0088ff" />
+    </a>
+    <a href="https://github.com/vperluzzo/vperluzzo/pulls">
+    <img alt="Issues" src="https://img.shields.io/github/issues-pr/vperluzzo/vperluzzo?color=0088ff" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=vperluzzo" alt="vperluzzo"/> 
+</p> 
 
 - 🤗 Fact1
 
