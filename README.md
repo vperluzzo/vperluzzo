@@ -1,43 +1,39 @@
 
 <!-- <img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Hi.gif" alt = "hi" width="40px" height="40px"> -->
-<h1 align="center"> <img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/hello.gif" alt="hello-gif"> <br >I'm <a href="https://www.linkedin.com/in/tusharnankani/">Tushar Nankani</a>. Welcome to my GitHub! 🤗</h1>
+<h1 align="center"> <img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/hello.gif" alt="hello-gif"> <br >I'm <a href="https://www.linkedin.com/in/valeriaperluzzo/">Valeria Perluzzo</a>. Welcome to my GitHub! 🤗</h1>
 
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tusharnankani" alt="tusharnankani"/> </p> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vperluzzo" alt="vperluzzo"/> </p> 
 
-- 🤗 Read my latest *Medium Blog Post* - **[An Exhaustive WhatsApp Chat Data Analysis.](https://medium.com/@tusharnankani/an-exhaustive-whatsapp-chat-data-analysis-f8421a845c30)**
+- 🤗 Fact1
 
-- 🔭 I’m currently working on my **Competitive Coding Skills**.
+- 🔭 I’m currently working on **skills**.
 
-- 🌱 I’m currently learning *React.js* and how to **flex my profile's [README.md](https://github.com/tusharnankani/tusharnankani/blob/master/README.md)** 💪.
+- 🌱 I’m currently learning *this and that* and **also this** 💪.
 
-- 👯 I’m looking to collaborate on **Open Sourced** Projects on *Web Devlopment* and *Python* 🐍 related Projects.
+- 👯 I’m looking to collaborate on **this and that** and *Python* 🐍 related Projects.
 
-- 🤔 I’m looking for help with *Machine Learning.*
+- 🤔 I’m looking for help with *this or that*
 
 - 💬 Ask me about **anything**, **anytime**!
 
-- ⚡ Fun fact: Equal is Not Always Equal in Javascript.
+- ⚡ Fun fact: 
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tusharnankani/), <a href="mailto:tusharnankani3@gmail.com">Email</a> or [here](https://github.com/tusharnankani/tusharnankani/issues/new).
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/valeriaperluzzo/), <a href="mailto:valeriaperluzzo@gmail.com">Email</a> or [here](https://github.com/vperluzzo/vperluzzo/issues/new).
 
-- 📝 <a href="https://drive.google.com/file/d/1kROuh18j69Y3NDslJvFe4vKBRiu3vCHZ/view?usp=sharing" target="_blank">My Resume</a>
+- 📝 <a href="PENDING" target="_blank">My CV</a>
 
 <p align="center"> <img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/coder.gif" alt="codergif" /> </p>
 
 
 ### About Me
 
-I am working on my **Data Structures** and **Algorithms**. My interest lies in **Data Science**, **Empirical Research**, **Statistics** and **Machine Learning**. I aim to be an **Open Source contributor**. 
-
-<!-- I have the **attitude** of a learner, the **courage** of an entrepreneur and the **thinking** of an optimist, engraved inside me. I wish to be a leader in my community of people and have an *innate desire* to contribute to **environment** and **society**. -->
-
-Currently, aim is to become a globally competent individual with **programming skills** along with **business leadership/entrepreneurship skills**.
+TEXT ABOUT ME
 
 
-<!-- <p align="center"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tusharnankani&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909"> </p> -->
+<!-- <p align="center"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vperluzzo&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909"> </p> -->
 
 <p align="center">
   
@@ -53,24 +49,8 @@ Currently, aim is to become a globally competent individual with **programming s
 
 <!--
 ## Some Of My Projects
-<p align="center">
-<a href="https://github.com/tusharnankani/TSECHackathon">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tusharnankani&repo=TSECHackathon" />
-</a>
-<a href="https://github.com/tusharnankani/AnalogClock">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tusharnankani&repo=AnalogClock"/>
-</a>
-<a href="https://github.com/tusharnankani/ToDoList">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tusharnankani&repo=ToDoList"/>
-</a>
-<a href="https://github.com/tusharnankani/GamesBuiltUsingPython">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tusharnankani&repo=GamesBuiltUsingPython"/>
-</a>
-</p>
+'....'
 -->
-
-<br>
-
 
 <div align="center">
 
@@ -78,8 +58,8 @@ Currently, aim is to become a globally competent individual with **programming s
 Connect with me<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Handshake.gif" height="32px">
 </h2>
 
-| [<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/tusharnankani) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@tusharnankani) | [<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/tusharnankanii/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/tusharnankani) | [<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/tusharnankani) | [<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:tusharnankani3@gmail.com)
-|:---:|:---:|:---:|:---:|:---:|:---:|
+| [<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/valeriaperluzzo) | [<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/valeriarp/) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/vperluzzo) | [<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:valeriaperluzzo@gmail.com)|
+|:---:|:---:|:---:|:---:|
 
 </div>
 
