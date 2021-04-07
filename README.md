@@ -32,20 +32,29 @@
 
 TEXT ABOUT ME
 
+[![Valeria's GitHub stats](https://github-readme-stats.vercel.app/api?username=vperluzzo&count_private=true&show_icons=true&include_all_commits=true)](https://github-readme-stats.vercel.app/api?username=vperluzzo&count_private=true&show_icons=true&include_all_commits=true)
+</a>
 
-<!-- <p align="center"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vperluzzo&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909"> </p> -->
+<!-- <p align="center"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vperluzzo&count_private=true&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909"> </p> -->
+</a>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vperluzzo&repo=vperluzzo)](https://github.com/vperluzzo/github-readme-stats)
+
+</a>
 
 <p align="center">
   
-<img src="https://metrics.lecoq.io/tusharnankani" alt="Github Metrics">
+<img src="https://metrics.lecoq.io/vperluzzo" alt="Github Metrics">
+</a>
   
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharnankani" alt="Github Streak Stats"> -->
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=vperluzzo" alt="Github Streak Stats"> -->
   
 </p>
 
-<!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tusharnankani&show_icons=true" alt="tusharnankani" />-->
+<!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vperluzzo&show_icons=true&count_private=true" alt="vperluzzo" />-->
+</a>
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharnankani&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/kushal98?tab=repositories)-->
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vperluzzo&show_icons=true)-->
 
 <!--
 ## Some Of My Projects
