@@ -33,8 +33,7 @@
 
 - 📝 <a href="PENDING" target="_blank">My CV</a>
 
-<p align="center"> <img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/coder.gif" alt="codergif" /> </p>
-
+<p align="center"> <img src="https://github.com/vperluzzo/vperluzzo/blob/master/coder_girl.gif" alt="codergif" /> </p>
 
 ### About Me
 
